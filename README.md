@@ -28,8 +28,11 @@ Para instalar el proyecto, sigue estos pasos:
     ```sh
     git clone https://github.com/KirbyMondragon/9no-Cuatrimestre-Bot.git
     ```
-
-2. Navega al directorio del proyecto:
+2. Usa este comando para instalar
+    ```sh
+    pnpm create builderbot@latest
+    ```
+3. Navega al directorio del proyecto:
     ```sh
     cd base-ts-baileys-memory
     ```
