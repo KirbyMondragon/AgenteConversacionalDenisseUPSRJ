@@ -81,7 +81,7 @@ Para instalar el proyecto, sigue estos pasos:
 Con esta biblioteca, puedes crear flujos de conversación automatizados independientes del proveedor de WhatsApp, configurar respuestas automáticas para preguntas frecuentes, recibir y responder mensajes automáticamente y realizar un seguimiento de las interacciones con los clientes. Además, puedes configurar fácilmente activadores para ampliar las funcionalidades sin límites.
 
 ```
-npm create builderbot@latest
+pnpm create builderbot@latest
 ```
 
 
